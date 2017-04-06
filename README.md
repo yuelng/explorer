@@ -1,5 +1,5 @@
 # explorer
-golang microservice movie recommend
+golang microservice movie recommend, learning by doing
 
 ### DevOps
 - push code in gitlab or github
